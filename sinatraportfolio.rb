@@ -32,7 +32,7 @@ __END__
         %br
       #link 
         %h3 
-          %a{:href=>"http://zimadravideo.herokuapp.com/"} 1. A bit of science: HIGGS boson 
+          %a{:href=>"http://zimadravideo.herokuapp.com/"} 1. A bit of science v: HIGGS boson (video)
         %br
         %h3 ...
         %br
