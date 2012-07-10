@@ -16,7 +16,7 @@ __END__
       h1 {color:blue; margin:auto; width:80%; background-color:#b0e0e6; text-shadow: 5px 5px 5px yellow; text-align:center}
       h3 {color:yellow; margin:auto; width:50%; background-color:#b0e0e6; text-align:center}
       h4 {color:green; margin:auto; width:80%; background-color:#b0e0e6;}
-      h2 {color:red; margin:auto; width:30%; background-color:#b0e0e6; text-align:center; transform: rotate(30deg); -ms-transform: rotate(30deg); /* IE 9 */ -webkit-transform: rotate(30deg); /* Safari and Chrome */ -o-transform: rotate(30deg); /* Opera */ -moz-transform: rotate(30deg); /* Firefox */;}
+      h2 {color:red; margin:auto; width:30%; background-color:#b0e0e6; text-align:center; transform: rotate(90deg); -ms-transform: rotate(90deg); /* IE 9 */ -webkit-transform: rotate(90deg); /* Safari and Chrome */ -o-transform: rotate(90deg); /* Opera */ -moz-transform: rotate(90deg); /* Firefox */;}
       a {color:red}
   %body
     #container
